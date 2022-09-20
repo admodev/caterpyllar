@@ -1,3 +1,3 @@
 # Caterpyllar
 
-## The Python library for architects in nedd of engineering.
+## The Python library for architects in need of engineering.
